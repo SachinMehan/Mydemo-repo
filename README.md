@@ -1,3 +1,3 @@
 # Mydemo-repo
 
-My demo repository.
+A demo repository.
